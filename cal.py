@@ -11,3 +11,4 @@ def calculate_average(numbers):
 scores = [85, 90, 78, 92, 88]
 result = calculate_average(scores)
 print(f"平均分是：{result}")
+print(f"平均分是：{result}")
